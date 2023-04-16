@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "[//linkedin.com/in/USERNAME](https://www.linkedin.com/in/priti-jha-14b96317a/)"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "[//github.com/USERNAME](www.github.com/PRITI24)"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "[//twitter.com/USERNAME](https://twitter.com/PritiGJha)"
