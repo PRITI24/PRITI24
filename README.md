@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang, AWS and CICD**
 
-- 📝 I regularly write articles on [pritijha.hashnode.dev](pritijha.hashnode.dev)
+- 📝 I regularly write articles on [pritijha.hashnode.dev](https://pritijha.hashnode.dev/)
 
 - 📫 How to reach me **jhapriti764@gmail.com**
 
