@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priti Jha</h1>
 <h3 align="center">A passionate Backend developer from India working in Cisco Bangalore.</h3>
 
-- 🌱 I’m currently learning **Golang, AWS and CICD**
+- 🌱 I’m currently learning **Golang, Python(Pyspark), AWS and CICD**
 
 - 📝 I regularly write articles on [pritijha.hashnode.dev](https://pritijha.hashnode.dev/)
 
