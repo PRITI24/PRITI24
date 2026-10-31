@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently:** Software Engineer at **Google** (Bengaluru), building high-scale distributed backend services, bounded-concurrency async pipelines, and modern web applications.
+- 🔭 **Currently:** Software Engineer at **Google** (Hyderabad, India — Ads Platform), building high-scale distributed backend services, bounded-concurrency async pipelines, and modern web applications.
 - 🌐 **Previously:**
-  - **Microsoft (Edge Browser Team):** Engineered Chromium/C++ browser internals and secure cross-browser data migration features reaching **170K+ users**.
+  - **Microsoft (Edge Browser Team, Hyderabad):** Engineered Chromium/C++ browser internals and secure cross-browser data migration features reaching **170K+ users**.
   - **Cisco:** Built high-throughput **Golang**, **PySpark**, and **AWS** cloud-native microservices and data pipelines, cutting API latency by **40%**.
 - 🛠️ **Open Source & Research Interests:** Observable AI Agents (**MCP + gRPC + OpenTelemetry**), Fail-Closed Distributed Batch Guardrails, Client-Side Browser AI (**WebGPU**), and **Apache Arrow** data pipelines.
 - 📝 **Technical Writing:** I write engineering deep-dives on **[pritijha.hashnode.dev](https://pritijha.hashnode.dev/)**
