@@ -23,6 +23,7 @@
 ### 🔥 Featured Open Source Projects
 
 - 🔭 **[grpc-mcp-otel-boilerplate](https://github.com/PRITI24/grpc-mcp-otel-boilerplate)** — A lightweight Go & Protobuf boilerplate bridging typed **gRPC** services to **Model Context Protocol (MCP)** AI Agents with **OpenTelemetry** distributed tracing and fail-closed concurrency guardrails.
+- ⚡ **[webgpu-browser-agent-boilerplate](https://github.com/PRITI24/webgpu-browser-agent-boilerplate)** — Zero-cost client-side AI Agent execution in **Chromium** browsers using **WebGPU** and **MCP** with deterministic queue pagination deduplication.
 - 🤝 **[Interview-Experiences](https://github.com/PRITI24/Interview-Experiences)** — Community-driven repository helping early-career engineers prepare for software engineering interviews.
 
 ---
