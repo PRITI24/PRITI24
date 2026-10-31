@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Priti Jha</h1>
-<h3 align="center">Software Engineer @ Google (Ads Platform) | Ex-Microsoft (Edge Browser) | Ex-Cisco</h3>
+<h3 align="center">Software Engineer @ Google | Ex-Microsoft | Ex-Cisco</h3>
 
 <p align="center">
-  <b>Java • Dart & Angular • TypeScript • C++ (Chromium) • gRPC & Protobuf • Distributed SQL • Agentic AI</b>
+  <b>Java • TypeScript • Angular • C++ • Python • Distributed Systems • Open Source</b>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Currently at Google (Hyderabad — Ads Platform):**
-  - Architecting high-scale **Java** backend services, sub-50ms bulk I/O state-enrichment connectors, and bounded-concurrency async pipelines over **Distributed SQL** and **gRPC / Protobuf**.
-  - Building reactive **Angular / Dart** web applications, deterministic queue pagination & deduplication managers, cross-cell traffic routing, and **Agentic AI (MCP)** workflows.
+- 🔭 **Currently:** Software Engineer at **Google** (Hyderabad, India).
 - 🌐 **Previously:**
-  - **Microsoft (Edge Browser Team, Hyderabad):** Engineered **C++ / Chromium** browser internals and secure cross-browser data migration features reaching **170K+ users**.
-  - **Cisco:** Built cloud-native backend microservices and **PySpark** data pipelines, reducing API latency by **40%**.
-- 📝 **Technical Writing:** **[pritijha.hashnode.dev](https://pritijha.hashnode.dev/)**
+  - **Microsoft (Hyderabad):** Software Engineer on the **Microsoft Edge** browser team (C++ / Chromium).
+  - **Cisco:** Software Engineer building cloud-native microservices and data pipelines.
+- 📝 **Technical Blog:** **[pritijha.hashnode.dev](https://pritijha.hashnode.dev/)**
 - 💼 **Portfolio:** **[priti24.github.io/portfolio](https://priti24.github.io/portfolio/)**
-- 📫 **Reach me:** **jhapriti764@gmail.com** *(Open to Open Source collaborations, Mentorship & Conference Lightning Talks!)*
+- 📫 **Reach me:** **jhapriti764@gmail.com**
 
 ---
 
-### 🔥 Featured Open Source Projects
+### 🔥 Open Source Starter Projects
 
-- ☕ **[grpc-mcp-otel-boilerplate](https://github.com/PRITI24/grpc-mcp-otel-boilerplate)** — **Java 21 & Protobuf** reference architecture bridging typed **gRPC** services to **Model Context Protocol (MCP)** AI Agents with **OpenTelemetry** distributed tracing, bulk I/O batching, and fail-closed capacity guardrails.
-- ⚡ **[webgpu-browser-agent-boilerplate](https://github.com/PRITI24/webgpu-browser-agent-boilerplate)** — **TypeScript & Chromium WebGPU** starter kit for zero-cost client-side AI Agent execution with deterministic queue pagination deduplication.
-- 🤝 **[Interview-Experiences](https://github.com/PRITI24/Interview-Experiences)** — Community-driven repository helping software engineers prepare for technical interviews.
+- ☕ **[grpc-mcp-otel-boilerplate](https://github.com/PRITI24/grpc-mcp-otel-boilerplate)** — A simple **Java 21 & gRPC** arithmetic calculator starter kit instrumented with **OpenTelemetry** tracing and **Model Context Protocol (MCP)** tool definitions.
+- ⚡ **[webgpu-browser-agent-boilerplate](https://github.com/PRITI24/webgpu-browser-agent-boilerplate)** — A lightweight **TypeScript & W3C WebGPU** browser compute shader starter kit.
+- 🤝 **[Interview-Experiences](https://github.com/PRITI24/Interview-Experiences)** — Community-driven repository for sharing software engineering interview experiences.
 
 ---
 
@@ -48,11 +46,10 @@
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/></a>
